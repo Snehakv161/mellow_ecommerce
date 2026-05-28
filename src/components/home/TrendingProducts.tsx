@@ -1,0 +1,1 @@
+export { TrendingProducts } from './FeaturedProducts'
