@@ -136,5 +136,3 @@ The entire app is designed mobile-first with:
 - Swipe-friendly product cards
 
 ---
-
-Built with ❤️ for Mellow
